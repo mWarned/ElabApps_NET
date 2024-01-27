@@ -3,4 +3,4 @@ Repositoria pentru stocarea tuturor proiectelor de la disciplina - Elaborarea ap
 
 ## Laboratoarele
   ### Laboratorul 1
-      Crearea unei aplicatii si conectarea acesteia la o baza de date cu posibilitatea de a insera si afisa datele acesteia
+   Crearea unei aplicatii si conectarea acesteia la o baza de date cu posibilitatea de a insera si afisa datele acesteia
