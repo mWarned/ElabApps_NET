@@ -1,0 +1,16 @@
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\lab2Report.exe.config
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\lab2Report.exe
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\lab2Report.pdb
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.csproj.AssemblyReference.cache
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.Form1.resources
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.Properties.Resources.resources
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.csproj.GenerateResource.cache
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.csproj.CoreCompileInputs.cache
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.csproj.CopyComplete
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.exe
+C:\GitHub\ElabApps_NET\lab2Report\lab2Report\obj\Debug\lab2Report.pdb
