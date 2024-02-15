@@ -31,7 +31,7 @@ namespace lab2
             {
                 try
                 {
-                    using (SqlConnection connection = new SqlConnection("Server=YourServerName;Database=YourDatabaseName;Integrated Security=True;"))
+                    using (SqlConnection connection = new SqlConnection("Server=DESKTOP-43MJEP7;Database=colegiu;Integrated Security=True;"))
                     {
                         connection.Open();
 

@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        string connectionString = "Server=YourServerName;Database=YourDatabaseName;Integrated Security=True;";
+        string connectionString = "Server=DESKTOP-43MJEP7;Database=colegiu;Integrated Security=True;";
 
         using (SqlConnection connection = new SqlConnection(connectionString))
         {
