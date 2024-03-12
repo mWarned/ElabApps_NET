@@ -1,0 +1,11 @@
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.csproj.AssemblyReference.cache
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.Form1.resources
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.Properties.Resources.resources
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.csproj.GenerateResource.cache
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.csproj.CoreCompileInputs.cache
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\bin\Debug\StudiulIndividual3.exe.config
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\bin\Debug\StudiulIndividual3.exe
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\bin\Debug\StudiulIndividual3.pdb
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.exe
+C:\GitHub\ElabApps_NET\StudiulIndividual3\StudiulIndividual3\obj\Debug\StudiulIndividual3.pdb
